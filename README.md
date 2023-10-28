@@ -1,6 +1,5 @@
 ### Hi, I'm Pedro 👋
 
-- 🚴‍♂️ I’m currently working on Tembici
 - 📚 Software Engineer Student at UnB
 
 <!--
