@@ -1,6 +1,8 @@
 ### Hi, I'm Pedro 👋
 
 - 📚 Software Engineer Student at UnB
+- Currently working at Tradex
+- Member/Founder MadDevinc
 
 <!--
 **pedro-prp/pedro-prp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
